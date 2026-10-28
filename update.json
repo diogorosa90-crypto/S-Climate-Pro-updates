@@ -1,0 +1,11 @@
+{
+  "apk": {
+    "installer": {
+      "versionCode": 2,
+      "versionName": "1.1.0",
+      "url": "apk/ClimateSolutions-installer-2.apk",
+      "sha256": "bceee6e44d7d6b4a6099619582b84c641c2c601d1815d80c9225bce67429222f",
+      "notes": "Versão 1.1.0"
+    }
+  }
+}
